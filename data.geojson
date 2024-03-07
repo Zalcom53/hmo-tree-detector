@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "Marcador 1: ¡Hola desde aquí!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.9923636201875, 29.11581244934719]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "Marcador 2: ¡Hola desde aquí también!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.97658111659426, 29.09659983681925]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "Marcador 3: ¡Hola desde aquí también!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.99687936045626,29.09069233871023]
+                
+            }
+        }
+    ]
+}
