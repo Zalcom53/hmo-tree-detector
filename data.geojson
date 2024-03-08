@@ -309,6 +309,42 @@
                 "coordinates": [-110.96280159062182, 29.121072168647554]
                     
             }
+        }, 
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PINGUICA</b><br><img src='images/marcador27.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PINGUICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96279805634836, 29.121178985908898]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PINGUICA EN FLOR</b><br><img src='images/marcador28.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PINGUICA EN FLOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96285981484861, 29.121221491930502]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>EPHESIA</b><br><img src='images/marcador29.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "EPHESIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96276474938901, 29.1211899858991]
+                    
+            }
         }
 
 
