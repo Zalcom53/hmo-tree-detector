@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 color: 'green',
                 weight: 1,
                 fillOpacity: 0.2,
-                radius: 10
+                radius: 5
             });
         },
         onEachFeature: function (feature, layer) {
