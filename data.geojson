@@ -345,9 +345,115 @@
                 "coordinates": [-110.96276474938901, 29.1211899858991]
                     
             }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>MANIKARA</b><br><img src='images/marcador30.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "MANIKARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96287618877251, 29.12123493101037]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>GEIJERA</b><br><img src='images/marcador31.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "GEIJERA" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96285077559682, 29.12142158352698]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>CALLISTERMON</b><br><img src='images/marcador32.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "CALLISTERMON" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96278327836511, 29.121276950190634]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador33.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "EUCALIPTO" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96324289981276, 29.121677184274276]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador34.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "EUCALIPTO" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96326768147468, 29.121787615246046]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador35.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "EUCALIPTO" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.9632886746357, 29.121933493505924]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador36.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "EUCALIPTO" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.9631689686314, 29.121253244109592]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador37.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "EUCALIPTO" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96317070197006, 29.121252919538236 ]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PINGUICA</b><br><img src='images/marcador38.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PINGUICA" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96311038536935, 29.12097187181442]
+                    
+            }
         }
-
-
     
     ]
 }
