@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>Eucalipto</b><br><img src='images/marcador1.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "Eucalipto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96087408467892, 29.12208649847569]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>Mezquite</b><br><img src='images/marcador2.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "Mezquite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96081805214769, 29.121951177733838]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PALMERA</b><br><img src='images/marcador3.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PALMERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96070486130581, 29.12129789361381]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PALMERA</b><br><img src='images/marcador4.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PALMERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96068697040711, 29.12121022596901]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PALMERA</b><br><img src='images/marcador5.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PALMERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96074350536608, 29.121068452077235]
+                
+            }
+        }
+    
+    ]
+}
