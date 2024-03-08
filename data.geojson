@@ -453,6 +453,18 @@
                 "coordinates": [-110.96311038536935, 29.12097187181442]
                     
             }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PALMERA</b><br><img src='images/marcador39.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PALMERA" 
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96235735930999, 29.121146960616258]
+                    
+            }
         }
     
     ]
