@@ -57,7 +57,56 @@
                 "coordinates": [-110.96074350536608, 29.121068452077235]
                 
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PALMERA</b><br><img src='images/marcador6.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PALMERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96077963003856, 29.121063489096933]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PALMERA</b><br><img src='images/marcador7.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PALMERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96081269296256, 29.121097888438047 ]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>OLNEYRA</b><br><img src='images/marcador8.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "OLNEYRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.9609928173981, 29.121077635343784]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>NIMM</b><br><img src='images/marcador9.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "NIMM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96144648561001, 29.12098794320638]
+                
+            }
         }
+
     
     ]
 }
