@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 fillColor: 'green',
                 color: 'green',
                 weight: 1,
-                fillOpacity: 0.3,
+                fillOpacity: 0.4,
                 radius: 4
             });
         },
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function locateUser() {
-        map.locate({ setView: true, maxZoom: 15 });
+        map.locate({ setView: true, maxZoom: 5});
     }
 
     document.getElementById('toggleSatelliteView').addEventListener('click', toggleSatelliteView);

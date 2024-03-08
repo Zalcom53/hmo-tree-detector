@@ -189,6 +189,126 @@
                 "coordinates": [-110.96228377093209, 29.1208464452006]
                 
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>ALGARROBO BLANCO</b><br><img src='images/marcador17.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "ALGARROBO BLANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96226611841169, 29.120850535146193]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PARKINSONIA ACULEATA</b><br><img src='images/marcador18.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PARKINSONIA ACUELEATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96253974111224, 29.120811644673005]
+                    
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>MEZQUITE</b><br><img src='images/marcador19.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "MEZQUITE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96254192408189, 29.12082370911917]
+                    
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>GOMERO</b><br><img src='images/marcador20.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "GOMERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96257014759898, 29.120891262021924]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>MEZQUITE</b><br><img src='images/marcador21.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "MEZQUITE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96264382176894, 29.120821443532616]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PALO VERDE</b><br><img src='images/marcador22.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PALO VERDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96267168858577, 29.120827292137786]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>ALGORROBO BLANCO</b><br><img src='images/marcador23.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "ALGORROBO BLANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96269881533371, 29.120822004460916]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>CISSUS STRIATA</b><br><img src='images/marcador24.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "CISSUS STRIATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96273877468218, 29.120807856067117 ]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>ABEFINGO</b><br><img src='images/marcador25.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "ABEFINGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96274136059786, 29.120912402956368]
+                    
+            }
+        },
+        {       
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>BUCIDA BUCEDAS</b><br><img src='images/marcador26.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "BUCIDA BUCEDAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96280159062182, 29.121072168647554]
+                    
+            }
         }
 
 
