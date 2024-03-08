@@ -105,7 +105,92 @@
                 "coordinates": [-110.96144648561001, 29.12098794320638]
                 
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>RIVER TAMARIND</b><br><img src='images/marcador10.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "RIVER TAMARIND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96151987926412,29.120968457976083]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>RIVER TAMARIND</b><br><img src='images/marcador11.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "RIVER TAMARIND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.9616734941714, 29.12092225083245]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PARKINSONIA</b><br><img src='images/marcador12.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PARKINSONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96176747663817, 29.120963486226184]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>RIVER TAMARIND</b><br><img src='images/marcador13.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "RIVER TAMARIND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96204698001777, 29.120873234702206]
+                
+            }
+        }, 
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>PARKINSONIA</b><br><img src='images/marcador14.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "PARKINSONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.9621569435502, 29.12086165183959]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>IRVINGIA</b><br><img src='images/marcador15.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "IRVINGIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96220480783927, 29.120860488996694]
+                
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popupContent": "<b>BUGAMBILIA</b><br><img src='images/marcador16.jpg' alt='Imagen Marcador 1' width='200'>",
+                "tipo_arbol": "BUGAMBILIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.96228377093209, 29.1208464452006]
+                
+            }
         }
+
 
     
     ]
