@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+window.addEventListener('load', function () {
     var map = L.map('map').setView([29.11581244934719, -110.9923636201875], 13);
 
     var osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -59,9 +59,9 @@ document.addEventListener('DOMContentLoaded', function () {
         map.locate({ setView: true, maxZoom: 5});
     }
 
-    document.getElementById('toggleSatelliteView').addEventListener('click', toggleSatelliteView);
-    document.getElementById('countCoordinatesBtn').addEventListener('click', countCoordinates);
-    document.getElementById('locateUserBtn').addEventListener('click', locateUser);
+    document.getElementById('toggleSatelliteView').addEventListener('change', toggleSatelliteView);
+    document.getElementById('countCoordinatesBtn').addEventListener('change', countCoordinates);
+    document.getElementById('locateUserBtn').addEventListener('change', locateUser);
 
     loadGeoJSON();
 });

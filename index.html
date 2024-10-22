@@ -3,16 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <link rel="stylesheet" href="styles.css" />
     <title>Orbe HMO | Tree viewer</title>
 </head>
 <body>
-    <div id="map"></div>
-    <div id="buttonsContainer">
-        <button id="toggleSatelliteView">Cambiar a vista de satélite</button>
-        <button id="countCoordinatesBtn">Contar Coordenadas</button>
-        <button id="locateUserBtn">Geolocalizar</button>
+    <div id="mapContainer">
+        <div id="map"></div>
+    </div>
+    <div id="switchPanel">
+        <h2>Funciones del Mapa</h2>
+        <label class="switch">
+            <input type="checkbox" id="toggleSatelliteView">
+            <span class="slider round"></span>
+            Cambiar a vista de satélite
+        </label>
+        <label class="switch">
+            <input type="checkbox" id="countCoordinatesBtn">
+            <span class="slider round"></span>
+            Contar Coordenadas
+        </label>
+        <label class="switch">
+            <input type="checkbox" id="locateUserBtn">
+            <span class="slider round"></span>
+            Geolocalizar
+        </label>
     </div>
 
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
