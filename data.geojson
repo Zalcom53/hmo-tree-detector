@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>Eucalipto</b><br><img src='images/marcador1.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>Eucalipto</b><br><img src='public/1.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "Eucalipto"
             },
             "geometry": {
@@ -15,7 +15,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>Mezquite</b><br><img src='images/marcador2.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>Mezquite</b><br><img src='public/2.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "Mezquite"
             },
             "geometry": {
@@ -26,7 +26,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PALMERA</b><br><img src='images/marcador3.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PALMERA</b><br><img src='public/3.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PALMERA"
             },
             "geometry": {
@@ -37,7 +37,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PALMERA</b><br><img src='images/marcador4.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PALMERA</b><br><img src='public/4.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PALMERA"
             },
             "geometry": {
@@ -49,7 +49,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PALMERA</b><br><img src='images/marcador5.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PALMERA</b><br><img src='public/5.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PALMERA"
             },
             "geometry": {
@@ -61,7 +61,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PALMERA</b><br><img src='images/marcador6.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PALMERA</b><br><img src='public/6.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PALMERA"
             },
             "geometry": {
@@ -73,7 +73,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PALMERA</b><br><img src='images/marcador7.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PALMERA</b><br><img src='public/7.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PALMERA"
             },
             "geometry": {
@@ -85,7 +85,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>OLNEYRA</b><br><img src='images/marcador8.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>OLNEYRA</b><br><img src='public/8.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "OLNEYRA"
             },
             "geometry": {
@@ -97,7 +97,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>NIMM</b><br><img src='images/marcador9.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>NIMM</b><br><img src='public/9.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "NIMM"
             },
             "geometry": {
@@ -109,7 +109,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>RIVER TAMARIND</b><br><img src='images/marcador10.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>RIVER TAMARIND</b><br><img src='public/10.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "RIVER TAMARIND"
             },
             "geometry": {
@@ -121,7 +121,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>RIVER TAMARIND</b><br><img src='images/marcador11.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>RIVER TAMARIND</b><br><img src='public/11.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "RIVER TAMARIND"
             },
             "geometry": {
@@ -133,7 +133,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PARKINSONIA</b><br><img src='images/marcador12.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PARKINSONIA</b><br><img src='public/12.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PARKINSONIA"
             },
             "geometry": {
@@ -145,7 +145,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>RIVER TAMARIND</b><br><img src='images/marcador13.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>RIVER TAMARIND</b><br><img src='public/13.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "RIVER TAMARIND"
             },
             "geometry": {
@@ -157,7 +157,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PARKINSONIA</b><br><img src='images/marcador14.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PARKINSONIA</b><br><img src='public/14.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PARKINSONIA"
             },
             "geometry": {
@@ -169,7 +169,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>IRVINGIA</b><br><img src='images/marcador15.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>IRVINGIA</b><br><img src='public/15.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "IRVINGIA"
             },
             "geometry": {
@@ -181,7 +181,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>BUGAMBILIA</b><br><img src='images/marcador16.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>BUGAMBILIA</b><br><img src='public/16.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "BUGAMBILIA"
             },
             "geometry": {
@@ -193,7 +193,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>ALGARROBO BLANCO</b><br><img src='images/marcador17.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>ALGARROBO BLANCO</b><br><img src='public/17.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "ALGARROBO BLANCO"
             },
             "geometry": {
@@ -205,7 +205,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PARKINSONIA ACULEATA</b><br><img src='images/marcador18.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PARKINSONIA ACULEATA</b><br><img src='public/18.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PARKINSONIA ACUELEATA"
             },
             "geometry": {
@@ -217,7 +217,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>MEZQUITE</b><br><img src='images/marcador19.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>MEZQUITE</b><br><img src='public/19.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "MEZQUITE"
             },
             "geometry": {
@@ -229,7 +229,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>GOMERO</b><br><img src='images/marcador20.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>GOMERO</b><br><img src='public/20.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "GOMERO"
             },
             "geometry": {
@@ -241,7 +241,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>MEZQUITE</b><br><img src='images/marcador21.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>MEZQUITE</b><br><img src='public/21.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "MEZQUITE"
             },
             "geometry": {
@@ -253,7 +253,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PALO VERDE</b><br><img src='images/marcador22.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PALO VERDE</b><br><img src='public/22.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PALO VERDE"
             },
             "geometry": {
@@ -265,7 +265,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>ALGORROBO BLANCO</b><br><img src='images/marcador23.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>ALGORROBO BLANCO</b><br><img src='public/23.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "ALGORROBO BLANCO"
             },
             "geometry": {
@@ -277,7 +277,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>CISSUS STRIATA</b><br><img src='images/marcador24.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>CISSUS STRIATA</b><br><img src='public/24.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "CISSUS STRIATA"
             },
             "geometry": {
@@ -289,7 +289,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>ABEFINGO</b><br><img src='images/marcador25.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>ABEFINGO</b><br><img src='public/25.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "ABEFINGO"
             },
             "geometry": {
@@ -301,7 +301,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>BUCIDA BUCEDAS</b><br><img src='images/marcador26.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>BUCIDA BUCEDAS</b><br><img src='public/26.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "BUCIDA BUCEDAS"
             },
             "geometry": {
@@ -313,7 +313,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PINGUICA</b><br><img src='images/marcador27.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PINGUICA</b><br><img src='public/27.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PINGUICA"
             },
             "geometry": {
@@ -325,7 +325,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PINGUICA EN FLOR</b><br><img src='images/marcador28.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PINGUICA EN FLOR</b><br><img src='public/28.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PINGUICA EN FLOR"
             },
             "geometry": {
@@ -337,7 +337,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>EPHESIA</b><br><img src='images/marcador29.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>EPHESIA</b><br><img src='public/29.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "EPHESIA"
             },
             "geometry": {
@@ -349,7 +349,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>MANIKARA</b><br><img src='images/marcador30.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>MANIKARA</b><br><img src='public/30.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "MANIKARA"
             },
             "geometry": {
@@ -361,7 +361,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>GEIJERA</b><br><img src='images/marcador31.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>GEIJERA</b><br><img src='public/31.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "GEIJERA" 
             },
             "geometry": {
@@ -373,7 +373,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>CALLISTERMON</b><br><img src='images/marcador32.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>CALLISTERMON</b><br><img src='public/32.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "CALLISTERMON" 
             },
             "geometry": {
@@ -385,7 +385,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador33.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>EUCALIPTO</b><br><img src='public/33.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "EUCALIPTO" 
             },
             "geometry": {
@@ -397,7 +397,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador34.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>EUCALIPTO</b><br><img src='public/34.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "EUCALIPTO" 
             },
             "geometry": {
@@ -409,7 +409,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador35.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>EUCALIPTO</b><br><img src='public/35.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "EUCALIPTO" 
             },
             "geometry": {
@@ -421,7 +421,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador36.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>EUCALIPTO</b><br><img src='public/36.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "EUCALIPTO" 
             },
             "geometry": {
@@ -433,7 +433,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>EUCALIPTO</b><br><img src='images/marcador37.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>EUCALIPTO</b><br><img src='public/37.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "EUCALIPTO" 
             },
             "geometry": {
@@ -445,7 +445,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PINGUICA</b><br><img src='images/marcador38.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PINGUICA</b><br><img src='public/38.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PINGUICA" 
             },
             "geometry": {
@@ -457,7 +457,7 @@
         {       
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>PALMERA</b><br><img src='images/marcador39.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>PALMERA</b><br><img src='public/39.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "PALMERA" 
             },
             "geometry": {

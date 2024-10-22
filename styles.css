@@ -4,87 +4,20 @@ body, html {
     height: 100%;
 }
 
-#mapContainer {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: calc(100% - 200px); /* Restamos el ancho del panel de interruptores */
-    height: 100%;
-    border-radius: 10px; /* Ajusta este valor según el radio de redondez deseado */
-    overflow: hidden; /* Asegura que el contenido dentro del contenedor no se salga de los bordes redondeados */
-}
-
 #map {
     height: 100%;
     width: 100%;
 }
 
-#switchPanel {
+#buttonsContainer {
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 100%;
-    background-color: #f1f1f1;
-    padding: 20px;
-    box-sizing: border-box;
-    overflow-y: auto;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000; /* Asegura que los botones estén encima del mapa */
 }
 
-.switch {
-    display: block;
-    position: relative;
-    margin-bottom: 15px;
-}
-
-.switch input { 
-    opacity: 0;
-    width: 0;
-    height: 0;
-}
-
-.slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #ccc;
-    -webkit-transition: .4s;
-    transition: .4s;
-}
-
-.slider:before {
-    position: absolute;
-    content: "";
-    height: 26px;
-    width: 26px;
-    left: 4px;
-    bottom: 4px;
-    background-color: white;
-    -webkit-transition: .4s;
-    transition: .4s;
-}
-
-input:checked + .slider {
-    background-color: #2196F3;
-}
-
-input:focus + .slider {
-    box-shadow: 0 0 1px #2196F3;
-}
-
-input:checked + .slider:before {
-    -webkit-transform: translateX(26px);
-    -ms-transform: translateX(26px);
-    transform: translateX(26px);
-}
-
-.slider.round {
-    border-radius: 34px;
-}
-
-.slider.round:before {
-    border-radius: 50%;
+#buttonsContainer button {
+    margin-bottom: 5px;
 }
