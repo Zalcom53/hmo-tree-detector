@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popupContent": "<b>Eucalipto</b><br><img src='public/1.jpg' alt='Imagen Marcador 1' width='200'>",
+                "popupContent": "<b>Eucalipto</b><br><img src='img/1.jpg' alt='Imagen Marcador 1' width='200'>",
                 "tipo_arbol": "Eucalipto"
             },
             "geometry": {
